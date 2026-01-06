@@ -18,8 +18,8 @@ then open tool directory
 
 -then give executable permissions to tool by command-
 
-$  chmod +x zain.sh
+chmod +x zain.sh
 
 -to run this tool simply type this command-
 
-$  ./zain.sh
+./zain.sh
