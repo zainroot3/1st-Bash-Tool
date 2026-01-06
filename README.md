@@ -9,3 +9,17 @@ It performs following actions:
 2: MAC Address Changer
 
 3: Sub domain finder
+
+### How to run this tool
+
+To run this tool 1st clone it to your termina
+
+then open tool directory
+
+-then give executable permissions to tool by command-
+
+$  chmod +x zain.sh
+
+-to run this tool simply type this command-
+
+$  ./zain.sh
