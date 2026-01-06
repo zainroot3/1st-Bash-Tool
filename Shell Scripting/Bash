@@ -1,0 +1,27 @@
+When we run any command in terminal the command go to shell and then run it.
+### What is Shell scripting actually is?
+                                        Shell is the Command line interpretation
+                                        When we run any command it goes to shell
+                                        Then our shell perform tasks from operating system
+                                        For example if we write ls on terminal
+                                        Our terminal gives command to shell
+                                        And shell gives the command to the kernal
+                                        Then kernal list the directories and files in termina
+                                        All things done on the terminal
+                                        So, We can understand how task works by this basic text diagram
+                                        Input:   Command -> Terminal -> Shell -> Kernal
+                                        Output:  Kernal -> Shell -> Terminal -> Output
+                                        Kernal is the brain of linux
+### Shell Scripting in Pen Testing:
+                                   Automation:
+                                              We can automate repetive tasks using shell scripting
+                                   Efficiency
+                                   Accuracy
+Shell is now updated to its many versions like bash and zsh languages but here we will learn bash
+### Folder
+            In folder we can store many folders files and anythings
+### Files
+            It is only one file that contain extension
+            
+File Permission in linux bash:
+                              
